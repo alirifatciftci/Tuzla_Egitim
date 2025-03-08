@@ -17,7 +17,7 @@ namespace Ders_001.App_Code
 
         public BaglantiBilgileri()
         {
-            this._Baglanti = new SqlConnection("server=mssql.tuzlatasarim.com.tr;Initial Catalog=admin_ogrenci;User ID=ogrenci; Password=u5n89#Mc");
+           
         }
         //  propertiestan compile seçmemiz lazım ki her yerden ulaşabilelim _b.baglantiya 
     }
